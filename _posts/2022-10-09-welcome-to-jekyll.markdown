@@ -1,29 +1,71 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2022-10-09 10:04:47 +0800
-categories: jekyll update
+title:  "采用学习最佳提升个人和组织的能力"
+date:   2022-10-09 10:00:00 +0800
+categories: 个人成长
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-Jekyll requires blog post files to be named according to the following format:
+今年公司组织文化推行“学习最佳”作为内功修炼的手段之一。通过一些培训和学习，从为什么、如何做两个方面描述“学习最佳”的方法。
 
-`YEAR-MONTH-DAY-title.MARKUP`
+## 为什么选择“学习最佳”？
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+互联网行业从黄金时代慢慢地走近了黑铁时代，取胜的关键不再是数量和速度。当前形势下利率越来越薄，质量要求越来越高，对能力的要求也就越来越高。所以在KO大会上，老顺跟大家反复强调我们要做能力建设，而能力的背后就是基本功。
 
-Jekyll also offers powerful support for code snippets:
+为什么选择学习最佳这个基本功？不同的专业、行业、职位、组织、层级的基本功都是不一样的，但学习最佳是放之四海而皆准的通用基本功，对所有人所有场景都是适用的。
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+当我们遇到问题的时候，你的问题不一定是新问题（日光之下无新事），如果能站在成功之人的肩膀上去找到方式方法，这是性价比最高的方式。所以，学习最佳的目的是为了（1）解决问题（2）是性价比最高的方式/是捷径。
+Cherry举例说有人问她说为了解决某个问题，如果学习最佳花费时间会不会整体上阻碍解决问题的效率。其实，学习最佳能够让你更精准地找到答案并提高问题解决的效率。学习最佳是一种捷径。
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+通常情况下我们每个人每个组织都需要成长，但是成长是一个空话。学习最佳其实是个人和组织持续成长的有效方式。
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+以组织为例，美团在第一阶段是团购公司，千团大战时期美团学习的是团购鼻祖Groupon的供给方式（每天一个爆款）。第二个阶段是到餐/外卖业务，美团面临销售组织人员多人能力要求高的问题，选择学习阿里巴巴中供铁军的销售运营和销售的组织方式。第三个阶段是上市后目标是成为市值最大的公司，当时美团有很多互相不关联的复杂业务，相比较微软、苹果唯独亚马逊也具备这样的特征，所以学习亚马逊的业务和组织的管理方式。王兴在很多大会上都强调“学习最佳是美团持续获取竞争力的最基本方法论，美团通过学习最佳每天前进 30 公里”。
+
+30公里故事：挪威阿蒙森团队1911年12/15率先到达南极点的经验：不管天气好坏，每天前进大概30公里。在一个极限环境里，你要做到最好，但是更重要的是，你要做到可持续的最好。
+
+以个人为例，阿里集团 COM 张无忌认为乔布斯拥有市场上最需要的洞察、创新、无中生有三个能力，所以乔布斯是最佳并学习他的的洞察、创新、无中生的能力。
+
+## 如何准确地找到“最佳”？
+
+“学习最佳”：时刻保持空杯心态，终身持续学习。通过拆解并识别问题，在不同层面，不同发展阶段，开阔视野地学习最高标准，并深度思考适配度。从心态到行动帮助个人和组织持续迭代，找到获取竞争优势的捷径。
+
+找到最佳四部曲：
+1. 拆解共识的问题。认知问题、解决核心问题。
+2. 定位所处阶段。本领域（中外）、跨行业、跨时间周期
+3. 扩大范围找
+4. 辩证思考适配度，提取学习的具体领域。
+
+通过灵魂四问进行反思：
+1. 拆解了哪些重要环节，还有其他环节吗？（能分出类别吗？）
+2. 所有环节都能做到领先了吗？哪个是最应该学习的环节？
+3. 放眼全球，考虑阶段、是本公司、本行业、
+4. “客户第一”，真的做到客户满意吗？
+
+## 如何正确地学习“最佳”？
+
+重要步骤：找到最佳、深度学习、实现迭代。
+
+高效学习（从哪学）:
+1. 无法结构化提炼那就多读书，读好书。（比如金字塔原理）
+2. 道听途说-聊对人、聊高人。集团内专家或活动、行业专家、投资人、利益相关方面试。
+
+学深学透（如何学）:
+1. 增加学习资料篇幅（cherry是50篇起）
+2. 知其然并知其所以然
+
+学习最佳的场景：
+1. 业务：战略/策略制定/执行规划/实操动作
+2. 组织：架构设计/流程体系/激励机制/团队文化/人才对标
+3. 个人：能力提升/述职/发展规划
+
+## 最后
+
+有助于“学习最佳”的书籍。
+
+1，产品、营销的人：定位、商战
+2，管理：管理梯队
+3，勤学多讲：金字塔原理、用图表说话
+4，营销管理
+5，公关之父伯奈斯：公关改变人的认知
+6，谷物大脑
+7，start with why
+8，丰田的三why法：从细节入手
